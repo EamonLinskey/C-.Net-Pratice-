@@ -1,0 +1,9 @@
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\eamon_linskey\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
